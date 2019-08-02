@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+}
+
+header h1{
+    margin: 0;
+    
+    font-size: 4em;
+    font-family: "Black Aria", Aria, "Times New Roman";
+    padding: 10px 0px 10px 0px;
+    background: black;
+    color: white;
+}
+
+
+
+nav ul{
+    display: inline;
+    margin: 0;
+}
+
+nav ul li{
+    background: white;
+    display: inline-block;
+    list-style-type: none;
+    font-size: em;
+}
+
+nav ul li a{
+    color: blue;
+}
+
+#about{
+    font-size: 16px;
+}
+
